@@ -3,13 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![docs-badge](https://img.shields.io/badge/docs-coming%20soon-lightgrey)
 
-<div style="text-align: center;">
+<p align="center">
   <img src="images/arm.png" alt="Banner" style="max-width: 100%; height: auto;" />
-  <p><em>The robotic arm in various configurations, with joints and links labeled</em></p>
-  <br>
-</div>
+  <em>The robotic arm in various configurations, with joints and links labeled</em>
+  <br><br>
+</p>
 
-**QuadraArm** is an open-source, Python-based framework for a custom-built 4-DOF (Degrees of Freedom) robotic arm. Developed as an educational and research-oriented project, QuadraArm integrates both hardware and software components to provide a reproducible end-to-end pipeline — covering everything from the mechanical structure and electronics to high-level motion control and planning algorithms."
+**QuadraArm** is an open-source, Python-based framework for a custom-built 4-DOF (Degrees of Freedom) robotic arm. Developed as an educational and research-oriented project, QuadraArm integrates both hardware and software components to provide a reproducible end-to-end pipeline — covering everything from the mechanical structure and electronics to high-level motion control and planning algorithms.
 
 The framework includes:
 - A detailed overview of the robotic arm’s **mechanical structure**
