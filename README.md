@@ -4,7 +4,7 @@
 ![docs-badge](https://img.shields.io/badge/docs-coming%20soon-lightgrey)
 
 <p align="center">
-  <img src="images/arm.png" alt="Banner" style="max-width: 100%; height: auto;" />
+  <img src="images/arm.png" alt="arm picture" style="max-width: 100%; height: auto;" />
   <em>The robotic arm in various configurations, with joints and links labeled</em>
   <br><br>
 </p>
