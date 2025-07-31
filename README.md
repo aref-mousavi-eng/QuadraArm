@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![docs-badge](https://img.shields.io/badge/docs-coming%20soon-lightgrey)
+[![JOSS: Coming Soon](https://img.shields.io/badge/JOSS-Coming%20Soon-lightgrey)](https://joss.theoj.org)
 
 <p align="center">
   <img src="images/arm.png" alt="arm picture" style="max-width: 100%; height: auto;" />
